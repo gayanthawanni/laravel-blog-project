@@ -1,4 +1,4 @@
-<div class="col-lg-8 oredoo-content">
+<div class="col-lg-8 blogee-content">
     <div class="theiaStickySidebar">
         @forelse ($posts as $post)
         <div class="post-list post-list-style1 pt-0">

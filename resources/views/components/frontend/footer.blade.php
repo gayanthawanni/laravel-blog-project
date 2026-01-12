@@ -34,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <div class="footer-area-copyright">
+        <!-- <div class="footer-area-copyright">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -44,6 +44,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>

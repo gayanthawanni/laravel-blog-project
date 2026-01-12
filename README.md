@@ -1,6 +1,6 @@
-# Oredoo - Laravel Multi User Blog Project
+# blogee - Laravel Multi User Blog Project
 
-A multi user blog project using Laravel 10 and Oredoo blog template
+A multi user blog project using Laravel 10 and blogee blog template
 
 ## Features
 
@@ -16,25 +16,25 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 ## Screenshots
 <p align="center" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_1.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_2.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_3.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_1.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_2.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_3.png"/>
 </p>
 <p align="center" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_4.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_5.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_6.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_4.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_5.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/blogee-laravel-blog-project/main/Screenshots/Screenshot_6.png"/>
 </p>
 
 ## Installation
 
 - Clone this repository
 ```
-git clone https://github.com/alsayeedar/oredoo-laravel-blog-project.git
+git clone https://github.com/alsayeedar/blogee-laravel-blog-project.git
 ```
 - Change directory
 ```
-cd oredoo-laravel-blog-project
+cd blogee-laravel-blog-project
 ```
 - Copy .env.example file
 ```

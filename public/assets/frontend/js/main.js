@@ -1,7 +1,7 @@
 /* -----------------------------------------------
 					Js Main
 --------------------------------------------------
-    Template Name: Oredoo - Personal Blog HTML Template
+    Template Name: blogee - Personal Blog HTML Template
 --------------------------------------------------
 
 Table of Content
@@ -189,7 +189,7 @@ Table of Content
        theiaStickySidebar
     -----------------------------------*/
 
-    jQuery('.oredoo-sidebar,.oredoo-content').theiaStickySidebar({
+    jQuery('.blogee-sidebar,.blogee-content').theiaStickySidebar({
         additionalMarginTop: 150
     });
 

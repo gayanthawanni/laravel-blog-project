@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
-    <a href="{{ route("dashboard.home") }}" class="brand-link">
+    <!-- <a href="{{ route("dashboard.home") }}" class="brand-link">
         <span class="brand-text font-weight-bold px-2">{{ config('app.sitesettings')::first()->site_title }}</span>
-    </a>
+    </a> -->
     <div class="sidebar">
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
             <div class="image">
