@@ -20,7 +20,7 @@ A multi user blog project using Laravel 10 and blogee blog template
 
 - Clone this repository
 ```
-
+https://github.com/gayanthawanni/laravel-blog-project
 ```
 
 ```
